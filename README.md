@@ -20,7 +20,7 @@ went, well its Concurrent Programming give it to Phil as the high
 propellor head programmer.
 
 Given my lack of ability we employed Ian Stead who had acted as the
-technical writer on the development of an implantable defibrillator.
+technical writer on the development of an implantable defibrillator
 at Telectronics in the 80's. Ians work was fundamental to that
 projects success and he had developed material for a course that was
 used for new engineers within Telectronics. 
@@ -28,6 +28,7 @@ used for new engineers within Telectronics.
 In my humble opinion delivering an industrial based course within an
 academic program was a good thing. I have been using the notes since
 then in a variety of industrial and consulting jobs. Currently I'm
-working in the utility industry where a few people could perhaps use
-the information contained in this course.
+working in the power utility industry where a few people could perhaps
+use the information contained in this course. Enough rambling.
+
 
